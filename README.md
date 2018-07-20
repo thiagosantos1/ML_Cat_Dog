@@ -1,13 +1,13 @@
-# Conception
+# Conception of CNN
 
-	* What are Convolutional Neural Networks?
+	# What are Convolutional Neural Networks?
 		* The main idea it's very similar to ANN.
 		* How The CNN can identify caracteristics in images?
 			* each pixel is a "box"/filter of a choseen dimension, usually 3x3.
 			* and for each pixel, the color of that pixil goes from 0 to 255, for a color representation(black or white).
 			* For colorful pictures, there are 3 boxes(3 dimension), and for each, the pixel also goes from 0 to 255.
 
-	* Steps for the CNN 
+	# Steps for the CNN 
 		1) Convolution (X) Layer 
 			* Main idea --> Find features in a image and make the image smaller by removing not necessary pixels 
 			* It is baasically a combined integration of the two functions and it shows you how one function modifies the other.   
