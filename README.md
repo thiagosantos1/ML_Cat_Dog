@@ -1,3 +1,9 @@
+# Main idea
+	* A simple convolutional neural network, implemented in Keras. The goal is to be able to classify pictures of Cats and Dogs.
+
+# Accuracy
+	* With the help of a GPU(I have used floyd platform), we were able to get an accuracy of 95%
+	
 # Conceptions of CNN
 
 
